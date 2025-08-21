@@ -1,0 +1,5 @@
+{
+  "maxCrystalsRendered": 64,
+  "cullDistance": 64.0,
+  "disableBeam": true
+}
